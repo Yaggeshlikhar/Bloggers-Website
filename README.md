@@ -49,7 +49,7 @@ $ npm start
 Ajinkya Kunjir
 Geetesh Pandit
 Pooja Alone
-Yaggesh Likkhar
+Yaggesh Likhar
 
 # License
 No license.
